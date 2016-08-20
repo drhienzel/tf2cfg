@@ -1,0 +1,20 @@
+"FogCrosshair"
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"FogCrosshair"
+		"visible"		"1"					//Change this to "1" to enable your crosshair
+		"enabled"		"1"
+		"zpos"			"2"
+
+		"xpos"			"c-100"
+		"ypos"			"c-98"
+		"wide"			"200"
+		"tall"			"200"
+
+		//"font"		"KonrWingsOutline24"
+
+		"font"			"Crosshairs32"
+		"labelText"		"f"                //Change this to whatever letter is under the xhair you want
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
